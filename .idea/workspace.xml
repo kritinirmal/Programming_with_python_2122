@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20a25cd4-014a-484b-aff4-d0eeedf317a7" name="Changes" comment="Add to submission folder">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="20a25cd4-014a-484b-aff4-d0eeedf317a7" name="Changes" comment="1`" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +9,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="fb789bfe-28e3-46eb-8409-8241c500d470" />
+        <option name="url" value="https://github.com/kritinirmal/Programming_with_python_2122.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="1yY1IvmbOyRHFaWOID3tCagaCFF" />
   <component name="ProjectViewState">
